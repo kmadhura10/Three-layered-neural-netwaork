@@ -1,4 +1,4 @@
-# Three-layered-neural-netwaork
+# Three-layered-neural-network
 three layer feedforward neural network using only numpy
 
 there is a dataset of different type of wine with different types of attribute.
